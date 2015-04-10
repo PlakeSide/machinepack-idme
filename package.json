@@ -1,0 +1,34 @@
+{
+  "name": "machinepack-idme",
+  "version": "0.1.0",
+  "description": "Communicate with ID.me to authorize and receive tokens and user information",
+  "scripts": {
+    "test": "node ./node_modules/test-machinepack-mocha/bin/testmachinepack-mocha.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PlakeSide/machinepack-idme"
+  },  
+  "keywords": [
+    "idme",
+    "machines",
+    "machinepack"
+  ],
+  "author": "Randall Meeker",
+  "license": "MIT",
+  "dependencies": {
+    "machine": "^3.0.0",
+    "machinepack-http": "^2.0.1"
+  },
+  "devDependencies": {
+    "test-machinepack-mocha": "^0.2.2"
+  },
+  "machinepack": {
+    "friendlyName": "idme",
+    "machineDir": "machines/",
+    "machines": [
+      "get-auth-token",
+      "get-profile"
+    ]
+  }
+}
