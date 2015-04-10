@@ -1,6 +1,6 @@
 {
   "name": "machinepack-idme",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Communicate with ID.me to authorize and receive tokens and user information",
   "scripts": {
     "test": "node ./node_modules/test-machinepack-mocha/bin/testmachinepack-mocha.js"
