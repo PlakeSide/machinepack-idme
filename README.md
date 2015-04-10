@@ -9,7 +9,7 @@
 Communicate with ID.me to authorize and receive tokens and user information
 
 
-## Installation &nbsp; [![NPM version](https://badge.fury.io/js/machinepack-idme.svg)](http://badge.fury.io/js/machinepack-idme) [![Build Status](https://travis-ci.org/mikermcneil/machinepack-idme.png?branch=master)](https://travis-ci.org/mikermcneil/machinepack-idme)
+## Installation &nbsp; [![NPM version](https://badge.fury.io/js/machinepack-idme.svg)](http://badge.fury.io/js/machinepack-idme) 
 
 ```sh
 $ npm install machinepack-idme
