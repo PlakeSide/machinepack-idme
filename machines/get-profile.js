@@ -37,6 +37,15 @@ module.exports = {
 
     success: {
       description: 'User Profile information:',
+      example: { 
+          id: 'c34a81aa25e2a3d0402806',
+          verified: true,
+          affiliation: 'Veteran',
+          email: 'partner+military_veteran_1@id.me',
+          fname: 'Franc',
+          lname: 'Footer',
+          phone: '555-555-5555'
+      }      
     },
 
   },
