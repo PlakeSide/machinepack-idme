@@ -23,13 +23,13 @@
   "devDependencies": {
     "test-machinepack-mocha": "^0.2.2"
   },
-  "iconSrc": "https://www.id.me/favicon-32.png",
   "machinepack": {
     "friendlyName": "idme",
     "machineDir": "machines/",
     "machines": [
       "get-auth-token",
       "get-profile"
-    ]
+    ],
+    "iconSrc": "https://www.id.me/favicon-32.png"
   }
 }
