@@ -4,7 +4,7 @@ module.exports = {
   friendlyName: 'Get Profile',
 
 
-  description: 'Returns profile information for a specified end-point',
+  description: 'Return profile information for a specified end-point',
 
 
   extendedDescription: 'Clients access protected data by making API calls with the access token for a given user. Please see the OAuth Implementation page for instructions on how to retrieve an access token. The ID.me server will validate the access token to ensure it has not expired and that its scope covers the requested resource.',
