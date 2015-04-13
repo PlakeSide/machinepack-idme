@@ -4,7 +4,7 @@ module.exports = {
   friendlyName: 'Get auth token',
 
 
-  description: 'Retrive access_token from using ID.me',
+  description: 'Retrieve access_token from using ID.me',
 
 
   extendedDescription: '',
